@@ -1,7 +1,8 @@
 ﻿SplicingTextView可拼接String的TextView
 ------------------
-
+<br/>
  app:splicingText为拼接的内容，以%s作为占位符
+ <br/>
  app:emptyContentText为当内容为空时显示的字符串
 
     <com.ehomecare.business.widget.SplicingTextView
